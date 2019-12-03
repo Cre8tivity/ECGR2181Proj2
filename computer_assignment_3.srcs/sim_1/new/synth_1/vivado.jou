@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec  3 15:08:01 2019
+# Process ID: 124
+# Current directory: D:/Vivado Files/computer_assignment_3/computer_assignment_3.srcs/sim_1/new/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: D:/Vivado Files/computer_assignment_3/computer_assignment_3.srcs/sim_1/new/synth_1/top.vds
+# Journal file: D:/Vivado Files/computer_assignment_3/computer_assignment_3.srcs/sim_1/new/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
